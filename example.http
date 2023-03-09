@@ -1,0 +1,5 @@
+PUT http://localhost:8080/api/addauto
+
+{
+"Kennzeichen": "PUTTING"
+}
